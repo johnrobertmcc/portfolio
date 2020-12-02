@@ -333,6 +333,11 @@ nav ul li a {
 .owl-item {
   float: left;
 }
+
+.owl-dots{
+  display:none;
+}
+
 .services-block span {
   margin: 10px 0;
   position: relative;
@@ -342,6 +347,7 @@ nav ul li a {
   font-weight: 500;
   text-transform: uppercase;
   display: block;
+  text-align:left;
 }
 
 .services-block .separator {
@@ -354,6 +360,9 @@ nav ul li a {
   font-size: 44px;
   color: #b8a07e;
   line-height: 44px;
+  display:flex;
+  justify-content:flex-start;
+  /* text-align:center; */
 }
 
 
