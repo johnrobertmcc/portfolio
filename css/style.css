@@ -330,6 +330,10 @@ nav ul li a {
   padding-bottom: 80px;
 }
 
+.typed{
+  color:white;
+}
+
 .owl-item {
   float: left;
 }

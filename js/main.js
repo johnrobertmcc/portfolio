@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["J.R. McCann :)", "new york based", "Hardworking", "Dedicated", "passionate"],
+      strings: ["J.R. McCann :)", "New York Based", "Hardworking", "Dedicated", "Animal Rights", 'Sustainability' ],
       typeSpeed: 100,
       loop: true,
     });
